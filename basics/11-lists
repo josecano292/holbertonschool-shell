@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -arl ./ ../ /boo/t
+ls -arl ./ ../ /boot/
